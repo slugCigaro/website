@@ -9,6 +9,13 @@
   left: 0;
   padding: 0.2rem 2rem;
 }
+.container {
+    width: auto;
+    height: auto;
+    background: #444;
+    margin: 0 auto;
+}
+
 
 @media print, screen and (min-width: 40em) {
   .clean-hero-slider .orbit-caption {
